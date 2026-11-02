@@ -1,0 +1,10 @@
+{
+ "v": 1,
+ "note": "Ice Smash! Codes. Schluessel = SHA-256 von 'icesmash:'+CODE (Grossbuchstaben, ohne Leer-/Bindestriche).",
+ "codes": {
+  "0f60718fac1828374eb1f4f9f78bbfeb52c204e9aa30ab472ee838055ec94f3a": {
+   "plus": "forever",
+   "coins": 500
+  }
+ }
+}
